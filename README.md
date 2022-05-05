@@ -35,6 +35,7 @@ preços, o hotel com mais estrelas deverá ser retornado.
 ## Como rodar reserva-hotel-api
 ```
 git clone https://github.com/AlineDaniel/reserva-hotel-api-master.git
+
 cd reserva-hotel-api
 mvn clean install
 cd target
@@ -46,6 +47,9 @@ ou
 
 java -jar reserva-hotel-1.0.jar
 ```
+
+
+
 
 
 
