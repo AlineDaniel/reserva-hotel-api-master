@@ -18,9 +18,7 @@ participantes do programa de fidelidade.
 
  - Ridgewood possui uma classificação 5 e suas taxas de dia de semana são R$220 para clientes normais e R$100 para participantes do programa de fidelidade. As taxas de final de semana são respectivamente R$150 e R$40 para clientes normais e participantes do programa de fidelidade.
 
-O software deverá encontrar o melhor hotel para o cliente se hospedar. O melhor
-hotel é aquele que fornecer o melhor preço no total de diárias. Em caso de empate de
-preços, o hotel com mais estrelas deverá ser retornado.
+O software deverá encontrar o hotel mais barato. A entrada do programa será uma sequência de datas para um cliente participante ou não do programa de fidelidade.
 
 ##Exemplo de entrada:
   1. normais: 16Mar2015(seg), 17Mar2015(ter), 18Mar2015(qua)
@@ -47,6 +45,8 @@ ou
 
 java -jar reserva-hotel-1.0.jar
 ```
+
+
 
 
 
