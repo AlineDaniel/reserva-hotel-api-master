@@ -10,9 +10,7 @@ indicando a excelência do serviço.
 
 ```
   - Lakewood possui uma classificação 3 e suas taxas de dia de semana são R$110 para
-clientes normais e R$80 para participantes do programa de fidelidade. As taxas de
-final de semana são respectivamente R$90 e R$80 para clientes normais e
-participantes do programa de fidelidade.
+ clientes normais e R$80 para participantes do programa de fidelidade. As taxas de final de semana são respectivamente R$90 e R$80 para clientes normais e participantes do programa de fidelidade.
     
  - Bridgewood possui uma classificação 4 e suas taxas de dia de semana são R$160 para clientes normais e R$110 para participantes do programa de fidelidade. As taxas de final de semana são respectivamente R$60 e R$50 para clientes normais e participantes do programa de fidelidade.
 
@@ -45,6 +43,8 @@ ou
 
 java -jar reserva-hotel-1.0.jar
 ```
+
+
 
 
 
